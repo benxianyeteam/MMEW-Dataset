@@ -1,2 +1,2 @@
-# MMEW
-Micro-and-Macr Expression Warehouse Dataset
+# Micro-and-Macro Expression Warehouse (MMEW)
+
