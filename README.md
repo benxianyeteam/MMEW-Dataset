@@ -1,9 +1,9 @@
-# Micro-and-Macro Expression Warehouse (MMEW)
+# Micro-and-Macro Expression Warehouse (MMEW) for Micro-expression Recognition
 MMEW dataset is pulished in paper "[Video-based Facial Micro-Expression Analysis: A Survey of Datasets, Features and Algorithms](https://ieeexplore.ieee.org/abstract/document/9382112)"[1].
 ## Introduction
 MMEW includes 300 micro-expressions and 900 macro-expressions which include six basic types, i.e. happiness, surprise, anger, disgust, fear and sadness. For convenient evaluation, all the samples are well named. Micro-expression sequence images named as “frameIndex.jpg” are stored in a three-layer file directory. Specifically, subject indexes are used as root folder, then some sub-folders, i. e., happiness, surprise, disgust, repression, fear, sadness, anger, each of which includes micro-expression sequence images. To better understand which image belongs to which subject and which emotion, the third layer directory is named in the way of “PersonIndex-EmotionIndex-SampleIndex”. For instance, an image stored in the path “S03/happiness/S03-01-002/1.jpg” is the 1st frame of the 2nd micro-expression sequence with happiness emotion for the 3rd subject. Similarly, the images for macro-expression are stored in a three-layer file directory. The first directory embodies a subject index, and the second directory embodies a macro-expression emotion. For example, “S03/happiness/S03-01-001.jpg” means the 1st sample with happiness emotion for the 3rd subject.
 
-For more information, please see the website of our lab [here](http://www.dpailab.com/database.html).
+For more information, please see the website of our lab [here](http://www.dpailab.com/database.html) or the introduction video [here](http://www.youtube.com/watch?v=egG9SZdLGz8).
 ## How to get
 MMEW dataset is publicly available for any academic use. To obtain MMEW, please sign the [license agreement](http://www.dpailab.com/Group_files/pdf/MMEW%20release%20agreement-wenqiang.pdf) and send a scanned copy to benxianyeye@163.com.
 ## Reference
