@@ -5,6 +5,6 @@ MMEW includes 300 micro-expressions and 900 macro-expressions which include six 
 
 For more information, please see the [introduction video](http://www.youtube.com/watch?v=egG9SZdLGz8) or the website of our lab [here](http://www.dpailab.com/database.html).
 ## How to get
-MMEW dataset is publicly available for any academic use. To obtain MMEW, please sign the [license agreement]([http://www.dpailab.com/Group_files/pdf/MMEW%20release%20agreement-wenqiang.pdf](https://github.com/benxianyeteam/MMEW-Dataset/blob/c5f0d04a8a64a3d7d30d40b9e299c591b3268231/MMEW%20release%20agreement.pdf)) and send a scanned copy to benxianyeye@163.com.
+MMEW dataset is publicly available for any academic use. To obtain MMEW, please sign the [license agreement](https://github.com/benxianyeteam/MMEW-Dataset/blob/c5f0d04a8a64a3d7d30d40b9e299c591b3268231/MMEW%20release%20agreement.pdf) and send a scanned copy to benxianyeye@163.com.
 ## Reference
 [1] Xianye Ben, Yi Ren, Junping Zhang, Su-Jing Wang*, Kidiyo Kpalma, Weixiao Meng, Yong-Jin Liu*. Video-based Facial Micro-Expression Analysis: A Survey of Datasets, Features and Algorithms. IEEE Transactions on Pattern Analysis and Machine Intelligence, DOI: 10.1109/TPAMI.2021.3067464
